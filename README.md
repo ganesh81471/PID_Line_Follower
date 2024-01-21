@@ -39,5 +39,5 @@ Adjust PID constants or other parameters in the code as needed for specific requ
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone https://github.com/ganesh81471/PID_Line_Follower.git
+   cd PID_Line_Follower
